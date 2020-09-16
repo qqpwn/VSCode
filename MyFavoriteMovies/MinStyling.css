@@ -1,0 +1,175 @@
+body{
+    text-align: center;
+}
+
+#Ramme{
+    height: auto;
+    width: auto;
+    background-color: deeppink;
+    border: 4px solid black;
+    
+}
+
+header{
+    font-size: 42px;
+    color: black;
+    height: 70px;
+}
+
+nav{
+    margin-bottom: 20px;
+    
+}
+
+#movie1{
+    border: 4px solid black;
+    color: black;
+    width: max-content;
+    padding: 5px;
+}
+
+#movie2{
+    border: 4px solid black;
+    color: black;
+    width: max-content;
+    padding: 5px;
+}
+
+#movie3{
+    border: 4px solid black;
+    color: black;
+    width: max-content;
+    padding: 5px;
+}
+
+#movie4{
+    border: 4px solid black;
+    color: black;
+    width: max-content;
+    padding: 5px;
+}
+
+#Billeder{
+    border: 4px solid black;
+    border-left: 0px;
+    border-right: 0px;
+    height: auto;
+    width: auto;
+    background: royalblue;
+    padding-right: 50px;
+    padding-left: 30px;
+        
+}
+
+ol{
+    font-size: 30px;
+    
+}
+
+#img1{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+.divtag1{
+    padding-left: 50px;
+}
+.divtag2{
+    padding-left: 300px;
+}
+.divtag2 article{
+    height: 200px;
+    width: 200px;
+}
+.divtag3{
+    padding-left: 300px;
+}
+.divtag3 iframe{
+    width: 450px;
+    height: 250px;
+    
+}
+
+#img2{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+#img3{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+#img4{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+#img5{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+#img6{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+#img7{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+#img8{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+#img9{
+    height: auto;
+    widows: auto;
+    border: 4px solid black;
+    display: flex;
+    font-size: 24px;
+    
+}
+
+
+
+
+footer{
+    font-size: xx-large;
+    
+}
