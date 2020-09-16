@@ -1,0 +1,31 @@
+.toplink{
+    background-color: yellow;
+    font-size: small;
+    
+}
+
+.extratext{
+    font-size: small;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+}
+
+#test2{
+    float: right;
+   
+}
+
+
+.container{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#footer{
+    position: relative;
+    font-size: small;
+    margin: 0px 200px;
+    
+}
